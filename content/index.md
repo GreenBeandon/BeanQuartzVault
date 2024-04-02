@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Bean's Faerûn Adventures
 ---
+Current Campaign: TBD
+Player Characters: TBD
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
