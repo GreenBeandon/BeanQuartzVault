@@ -3,7 +3,7 @@ todaysdate: 2024-04-02
 campaign: 
 finished: "false"
 ---
-# [[Untitled]] - 2024-04-02
+# [[Campaign Notes/Untitled]] - 2024-04-02
 
 
 

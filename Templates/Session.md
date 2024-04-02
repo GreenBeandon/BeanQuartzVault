@@ -3,7 +3,7 @@ todaysdate: <% tp.date.now("YYYY-MM-DD")%>
 campaign: 
 finished: "false"
 ---
-# [[<% tp.file.title %>]] - <% tp.date.now("YYYY-MM-DD")%>
+# [[Campaign Notes/<% tp.file.title %>]] - <% tp.date.now("YYYY-MM-DD")%>
 
 
 
