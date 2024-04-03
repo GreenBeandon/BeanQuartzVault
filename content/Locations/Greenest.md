@@ -2,7 +2,7 @@
 affiliation: 
 road: Uldoon Trail
 ---
-# [[<% tp.file.title %>]]
+# [[Greenest]]
 
 ![[Greenest-map-5e.webp]]
 ![[Pasted image 20240403120840.png]]
