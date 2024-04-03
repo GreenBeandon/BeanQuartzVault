@@ -1,5 +1,6 @@
 ---
 affiliation: 
-culture:
+culture: 
+race:
 ---
 # [[<% tp.file.title %>]]
